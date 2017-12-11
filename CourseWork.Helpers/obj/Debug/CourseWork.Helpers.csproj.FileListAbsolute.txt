@@ -1,0 +1,6 @@
+C:\Users\coca-\Documents\GitHub\CourseWork\CourseWork\CourseWork.Helpers\bin\Debug\CourseWork.Helpers.dll
+C:\Users\coca-\Documents\GitHub\CourseWork\CourseWork\CourseWork.Helpers\bin\Debug\CourseWork.Helpers.pdb
+C:\Users\coca-\Documents\GitHub\CourseWork\CourseWork\CourseWork.Helpers\obj\Debug\CourseWork.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\coca-\Documents\GitHub\CourseWork\CourseWork\CourseWork.Helpers\obj\Debug\CourseWork.Helpers.dll
+C:\Users\coca-\Documents\GitHub\CourseWork\CourseWork\CourseWork.Helpers\obj\Debug\CourseWork.Helpers.pdb
+C:\Users\coca-\Documents\GitHub\CourseWork\CourseWork\CourseWork.Helpers\obj\Debug\CourseWork.Helpers.csprojResolveAssemblyReference.cache
